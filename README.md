@@ -1,5 +1,3 @@
-<img width="399" height="822" alt="image" src="https://github.com/user-attachments/assets/01e59b5b-c576-43f1-a842-cd195e9415e4" /># TaskNest
-
 TaskNest is a modern full-stack task management web application designed for students and productivity-focused users.  
 It allows users to manage tasks efficiently through a clean dashboard interface with authentication, analytics, responsive design, and real-time task management features.
 
